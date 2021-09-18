@@ -1,3 +1,4 @@
 # TTC2030
 
-Ohjelmoinnin perusteet
+## Tervetuloa
+Ohjelmoinnin perusteet kurssin etusivu.
