@@ -1,12 +1,12 @@
-def kerro3(age):
-    if age < 13:
+def kerro3(ika):
+    if ika < 13:
         return "child"
-    elif age >=13 and age <=19:
+    elif ika >= 13 and ika <= 19:
         return "teen"
-    elif age >=20 and age <=65:
+    elif ika >= 20 and ika <= 65:
         return "adult"
     else:
         return "senior"
 
-age = int(input("Give your age: "))
-print(kerro3(age))
+ika = int(input("Give your age: "))
+print(kerro3(ika))
