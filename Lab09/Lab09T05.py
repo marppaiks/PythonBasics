@@ -3,7 +3,6 @@ def lotto():
     return random.randrange(1, 41)
 
 
-
 numList = []
 
 for i in range(7):
