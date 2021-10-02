@@ -7,6 +7,5 @@ numList = []
 
 for i in range(7):
     numList.append(lotto())
-    numList.sort
 
-print(*numList, sep = ", ")
+print(*numList.sort, sep = ", ")
