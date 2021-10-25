@@ -29,3 +29,10 @@ dog2.breed = "Villakoira"
 dog2.age = 5
 
 print(dog2.name, dog2.breed, dog2.age, dog2.bark("hau"))
+
+#koirat listaan
+dogs = [dog, dog2]
+#Käydään koiralauma läpi
+print("Koiramme ovat")
+for x in dogs:
+    print(x.name)
