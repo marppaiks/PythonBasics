@@ -1,7 +1,7 @@
 cars = []
 
 while True: # Autojen lisääminen listaan käyttäjän syöttämillä tiedoilla
-    if len(cars) >= 3: break #Lopettaa 10 jälkeen
+    if len(cars) >= 10: break #Lopettaa 10 jälkeen
 
     rekkari = input("Anna rekisterinumero: ")
     if not rekkari: break
