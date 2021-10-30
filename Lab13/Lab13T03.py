@@ -9,7 +9,8 @@ while True: # Autojen lisääminen listaan käyttäjän syöttämillä tiedoilla
 
     cars.append([rekkari, malli])
 
-sorted
+cars.sort(key=lambda x: x[0])
+print(cars)
 
-print(sorted(cars))
-
+cars.sort(key=lambda x: x[1])
+print(cars)
