@@ -1,1 +1,2 @@
-Mariannen testimuistiinpanot
+Creating a file with Python!
+Today is 1.11.2021
