@@ -5,7 +5,7 @@ while True: # Autojen lisääminen listaan käyttäjän syöttämillä tiedoilla
 
     rekkari = input("Anna rekisterinumero: ")
     if not rekkari: break
-    malli = input("Enter brand: ")
+    malli = input("Anna malli: ")
 
     cars.append([rekkari, malli])
 
