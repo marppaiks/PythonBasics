@@ -1,3 +1,10 @@
+#Tee ohjelma joka kysyy käyttäjältä kaksi kokonaislukua ja tulostaa niiden:
+# summan
+# erotuksen
+# tulon
+# osamäärän
+
+
 text1 = input("Anna kokonaisluku: ")
 text2 = input("Anna toinen kokonaisluku: ")
 
