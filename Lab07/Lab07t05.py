@@ -1,3 +1,7 @@
+#Esittele muuttuja, johon tallennetaan pankkitilin saldo euroina (alku saldo on 2000 €).
+#Tulosta pankkitilin saldo konsoliin. Kysy konsolissa kuinka monta euroa lisätään saldoon.
+#Kysy konsolissa kuinka monta senttiä lisätään saldoon. Tulosta saldo konsoliin näiden muutosten jälkeen.
+
 saldo = 2000
 print("Account balance:", saldo, "€")
 
