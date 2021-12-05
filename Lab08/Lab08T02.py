@@ -1,3 +1,5 @@
+#Tee ohjelma joka kysyy käyttäjältä 3 kokonaislukua ja tulostaa niistä suurimman.
+
 def maximum(a, b, c):
      
     if a >= b and a >=c:
