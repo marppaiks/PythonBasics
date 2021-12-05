@@ -1,3 +1,6 @@
+# Mäkihypyssä käytetään viittä arvostelutuomaria.
+# Kirjoita ohjelma, joka kysyy arvostelupisteet yhdelle hypylle ja tulostaa tyylipisteiden summan siten, että summasta on vähennetty pois pienin ja suurin tyylipiste.
+
 gradesList = []
 
 for i in range(5):
