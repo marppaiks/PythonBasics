@@ -1,3 +1,6 @@
+#Tee ohjelma, joka arpoo lottorivin ja tallentaa ne tekstitiedostoon 'lotto.txt'.
+#Arvottu rivi sisältää seitsemän (7) numeroa väliltä 1-40. Varmista arpoessasi riviä että sama numero ei voi esiintyä kahta kertaa.
+
 import random
 import os
 filename = os.path.expanduser('~/') + 'lotto.txt'
