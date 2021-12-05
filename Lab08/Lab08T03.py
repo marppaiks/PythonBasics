@@ -1,3 +1,9 @@
+#Tee ohjelma joka kysyy käyttäjältä kokonaisluvun.
+
+#jos luku on 10 tai 20, palauta teksti "Luku on 10 tai 20"
+#jos luku on 100 tai 200, palauta teksti "Luku on 100 tai 200"
+#muuten palauta annettu luku tekstinä.
+
 luku = int(input("Anna kokonaisluku: "))
 
 if luku ==10 or luku ==20:
