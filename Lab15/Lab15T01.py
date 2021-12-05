@@ -1,3 +1,7 @@
+#Tee ohjelma, joka kysyy käyttäjältä henköiden sukunimiä ja kirjoita käyttäjän antamat nimet tiedostoon (lopetusehdon voit päättää itse).
+#Avaa tämän jälkeen tiedosto lukemista varten ja tulosta konsoliin tiedoston sisältö riveittäin.
+#Huomioi mahdolliset poikkeukset, joita tiedoston käsittely voi aiheuttaa.
+
 import os
 try:
     filename = os.path.expanduser('~/') + 'nimet.txt'
