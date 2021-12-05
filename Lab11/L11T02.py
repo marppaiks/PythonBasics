@@ -1,3 +1,10 @@
+#Tee funktiot: celToFah ja fahToCel
+
+#Funktiot ottavat parametrikseen asteluvun ja muuttavat sen joko fahrenheitit celsiuksiksi tai celsius-asteet fahrenheitiksi.
+# Muutettu astearvo palautetaan yhden desimaalin tarkkuudella.
+#Testaa kumpikin funktio kutsumalla sitä käyttäjän antamilla luvuilla.
+#Esimerkiksi testi print(celToFah(10.0)) palauttaa arvon 50.0
+
 def celToFah(celsius):
     celToFah = celsius * 1.8 + 32
     format_celToFah = "{:.1f}".format(celToFah)
