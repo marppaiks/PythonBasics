@@ -1,3 +1,7 @@
+#Tee ohjelma joka kysyy käyttäjältä lukuja (joko kokonaisluku tai liukuluku) ja tallenna kokonaisluvut eri tiedostoon kuin liukuluvut.
+#Sovellus tulee lopettaa jos käyttäjä ei syötä kokonais- tai liukulukua.
+#Tarkista tiedostojen sisältö tekstieditorilla.
+
 import os
 filename = os.path.expanduser('~/') + 'liukuluvut.txt'
 filename2 = os.path.expanduser('~/') + 'kokonaisluvut.txt'
