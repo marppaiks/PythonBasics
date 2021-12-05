@@ -1,3 +1,10 @@
+#Tee luokka Human. Luokalla on kaksi ominaisuutta name ja age. Kirjoita Human-luokka seuraavasti:
+# Konstruktori alustaa Human-olion nimen ja iän parametrien kautta.
+# Luokan str metodi toimii kuten on alla esitetty
+#Luo kaksi Human-luokan oliota seuraavilla tiedoilla:
+#Nimi: Adam, Ikä: 18
+#Nimi: Eva, Ikä: 18
+
 class Human:
     def __init__(self, name= "", age= 0):
         self.name = name
