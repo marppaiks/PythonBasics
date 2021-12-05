@@ -1,3 +1,9 @@
+#Tee ohjelma, joka kysyy käyttäjältä viisi lukua. Laske annetuista luvuista yhteen ne luvut, jotka ovat nollaa suurempia.
+
+#Eli jos käyttäjä antaa nollan tai negatiivisen luvun sitä ei lisätä summaan.
+#Tulosta summa konsoliin. Kokeile ohjelmaasi esim seuraavilla arvoilla: 1,2,3,4,5 ja -2,0,2,4,6. Mitä sait summaksi?
+
+
 def checknum(sum):
     if a <= 0:
         return b + c + d + e
