@@ -1,3 +1,7 @@
+#Luo jollakin editorilla (esim Notepadilla) tekstitiedosto 'nimet.txt', johon lisäät vähintään kymmenen naisten ja kymmenen miesten etunimeä.
+#Tee ohjelma, joka lukee em. tekstitiedostosta nimet ja kertoo montako nimeä löytyy ja montako kertaa kukin nimi esiintyy.
+#Huomioi myös muut mahdolliset poikkeukset joita tiedoston käsittely voi aiheuttaa.
+
 from collections import Counter
 
 
