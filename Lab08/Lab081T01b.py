@@ -1,3 +1,9 @@
+#Tee ohjelma jossa kysytään käyttäjältä tämän ikä.
+#jos ikä on alle 13 vuotta, tulosta "child"
+#jos ikä on 13-19 vuotta, tulosta "teen"
+#jos se on 20-65 vuotta, tulosta "adult"
+#muussa tapauksessa tulosta "senior".
+
 def kerro3(ika):
     if ika < 13:
         return "child"
