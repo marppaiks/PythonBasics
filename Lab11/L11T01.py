@@ -1,3 +1,6 @@
+#Tee funktio time, joka muuttaa parametrinä saadun sekuntiarvon muotoon tunnit:minuutit:sekunnit.
+#Esimerkiksi luvulle 10000, palautetaan tieto seuraavassa muodossa "02:46:40"
+
 def time(seconds):
     m, s = divmod(seconds, 60)
     h, m = divmod(m, 60)
