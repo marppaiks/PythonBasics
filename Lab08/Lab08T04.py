@@ -1,3 +1,6 @@
+#Tee ohjelma jossa annetaan oppilaalle arvosana alla olevan taulukon mukaan.
+#Kysy pistemäärä konsolissa ja tulosta arvosana.
+
 points = int(input("Insert your points: "))
 
 if points == 0 or points == 1:
