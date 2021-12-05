@@ -1,3 +1,9 @@
+#Tee luokka Cat. Tee Cat-luokalle kaksi ominaisuutta name ja color, sekä yksi metodi miau.
+#Luo Cat-luokasta kaksi erilaista kissa-oliota seuraavilla tiedoilla:
+#name: Kit, color: black
+#name: Kat, color: white
+#Kissat sanovat naukuessaan: Meoooooow!
+
 class Cat:
     def __init__(self, name= "", color=""): #Luodaan muodostaja
         self.name = name
