@@ -1,3 +1,7 @@
+#Tee ohjelma, joka kysyy käyttäjältä kokonaislukuja. Lukuja kysytään siihen saakka kunnes käyttäjä antaa tyhjän syötteen.
+#Laske kuinka monta lukua käyttäjä antoi, laske myös annettujen lukujen summa.
+#Näytä annettujen lukujen lukumäärä ja summa käyttäjälle.
+
 numList = []
 
 
