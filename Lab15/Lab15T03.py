@@ -1,3 +1,5 @@
+#Jatkoa edelliseen. Lajittele nimet aakkosjärjestykseen ennen tulostusta.
+
 from collections import Counter
 
 file = open('C:\\Users\\Marppa\\names.txt', "r")
