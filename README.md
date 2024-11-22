@@ -1,4 +1,4 @@
-# TTC2030
+# TTC2030 - Ohjelmoinnin perusteet - Programming basics 2021
 
-## Tervetuloa
-Ohjelmoinnin perusteet kurssin etusivu.
+## Tervetuloa - Welcome
+Here are my assignments for the Programming basics course @ JAMK in 2021.
